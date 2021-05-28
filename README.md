@@ -6,5 +6,5 @@ Ecrit en langage `JAVA`, ce programme permet de :
 + et le supprimer
 
 Cloner d'abord le projet en lançant la commande suivant : 
-`git clone https://github.com/Djibba/Gestion-de-contact.git`
+`git clone https://github.com/Djibba/Gestion-de-contact.git`.
 Ensuite importer le projet dans netbeans
